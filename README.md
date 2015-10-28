@@ -33,17 +33,23 @@ Data statistics
 -----
 Files
 -----
-
+Focul Dataset
 	* Age_Restricted_Homes.csv
 		This file contains the demographic information like Name, Address, City, 
                 State, Zipcode, Phone_Number, Minimum Age and Geometric_Location
-	
+
+Supporting Dataset
 	* Parks.csv
 		This file contains information like FID, Name, Park_ID, Classification, Type_of_park, 
                 Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks loacted 
 		inside Howard county 																
+
  	* Floodplain.csv
 		This file contains FID and Geometric_Location
+
+Merged Dataset
+	* vAge_Restricted_Homes_Parks
+		This data set uses the data from the focal data set and Parks.csv
 
 -----------
 Data format
@@ -61,6 +67,13 @@ Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks 
 
  	* Floodplains.csv
 		This file contains FID and Geometric_Location
+
+-----------
+Analysis
+-----------
+Since Howard County is very prone to floods, are appropriate measures taken for the prevention of the floods, protection of the elderly folks who mostly have their residntial houses in the floodplanes and mitigation of the flooding?
+
+I viewed all the three datasets taken from Howard County data portal on an interactive map and one can see that most of the age restricted homes belonging to the elderly lie in the floodplanes of Howard County.
 
 ------- 
 License
@@ -85,6 +98,7 @@ References
    When using this dataset you should cite:
    
       - the original Age_Restricted_Homes, Parks and Floodplains dataset from Howard County Data Portal, https://data.howardcountymd.gov
+      - Age_Restricted_Homes_Parks, https://github.com/lesterpereira/INFM600
       
 
 -------
