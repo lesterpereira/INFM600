@@ -40,11 +40,11 @@ Focal Dataset
                 State, Zipcode, Phone_Number, Minimum Age and Geometric_Location
 
 Supporting Dataset
+
 	* Parks.csv
 		This file contains information like FID, Name, Park_ID, Classification, Type_of_park, 
                 Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks loacted 
 		inside Howard county 																
-
  	* Floodplain.csv
 		This file contains FID and Geometric_Location
 
