@@ -71,7 +71,7 @@ And
 
 Since Howard County is very prone to floods, are appropriate measures taken for the prevention of the floods, protection of the elderly folks who mostly have their residntial houses in the floodplanes?
 
-I viewed all the three datasets taken from Howard County data portal on an interactive map and one can see that most of the age restricted homes belonging to the elderly lie in the floodplanes of Howard County.
+I viewed all the three datasets taken from Howard County data portal on an interactive map and one can see that most of the age restricted homes belonging to the elderly lie in the floodplanes of Howard County and there aren't too many parks in close proximity.
 
 ------- 
 License
@@ -86,7 +86,7 @@ Acknowledgements
 ----------------
 
    I thank the Howard County Data Portal (https://data.howardcountymd.gov) 
-   for hosting and allowing use of the Age_Restricted_Homes, Parks and Floodplains 
+   for hosting and allowing use of the vAge_Restricted_Homes, Parks and Floodplain 
    dataset
 
 ----------
@@ -95,12 +95,12 @@ References
 
    When using this dataset you should cite:
    
-      - the original Age_Restricted_Homes, Parks and Floodplains dataset from Howard County Data Portal, https://data.howardcountymd.gov
-      - Age_Restricted_Homes_Parks, https://github.com/lesterpereira/INFM600
+      - the original vAge_Restricted_Homes, Parks and Floodplain dataset from Howard County Data Portal, https://data.howardcountymd.gov
+      - vAge_Restricted_Homes_Parks, https://github.com/lesterpereira/INFM600
       
 
 -------
-Credits
+Author
 -------
 
-   This dataset was built by Lester Pereira
+   Lester Pereira
