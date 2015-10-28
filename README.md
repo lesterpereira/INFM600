@@ -54,15 +54,18 @@ Zipcode, Phone_Number, Minimum Age and Geometric_Location
 	
 	* Parks.csv
 		This file contains information like FID, Name, Park_ID, Classification, Type_of_park, 
-Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks loacted inside Howard 
-county 																
+Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks loacted inside Howard county
+
  	* Floodplains.csv
 		This file contains FID and Geometric_Location
 
 ------- 
 License
 -------
+The data in the INFM600 repository is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (see http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+	The data is made available for non-commercial use. Those interested in using the data 
+	in a commercial context should contact the owner(Gavish Gulati).
 
 ----------------
 Acknowledgements
