@@ -14,7 +14,10 @@ Description
     This dataset is a derivative of the Howard County Data Portal (https://data.howardcountymd.gov) 
     hosted by the Howard County governement.
 
-    From the original dataset, only information necessary to answer the question related to the the geo location of the age      restricted houses and the demoogrphic information of the people, the geo location of the floodplains has been maintained.     This includes Name, Address, City, State, Zipcode, Phone_Number, Minimum Age, Geometric_Location etc.
+    From the original dataset, only information necessary to answer the question related 
+    to the the geo location of the age, restricted houses and the demoogrphic information 
+    of the people, the geo location of the floodplains has been maintained. This includes
+    Name, Address, City, State, Zipcode, Phone_Number, Minimum Age, Geometric_Location etc.
     
     The dataset is released in the framework of INFM 600, Information Environments, Fall
     2015, at the University of Maryland iSchool, http://ischool.umd.edu/mim.
@@ -32,10 +35,13 @@ Files
 -----
 
 	* Age_Restricted_Homes.csv
-		This file contains the demographic information like Name, Address, City, State, Zipcode, Phone_Number, Minimum Age and Geometric_Location
+		This file contains the demographic information like Name, Address, City, 
+State, Zipcode, Phone_Number, Minimum Age and Geometric_Location
 	
 	* Parks.csv
-		This file contains information like FID, Name, Park_ID, Classification, Type_of_park, Address1, Address2	Address3, City, Zip and Geometric_Location of all the parks loacted inside Howard county 																
+		This file contains information like FID, Name, Park_ID, Classification, 
+Type_of_park, Address1, Address2, Address3, City, Zip and Geometric_Location of all the 
+parks loacted inside Howard county 																
  	* Floodplains.csv
 		This file contains FID and Geometric_Location
 
@@ -46,10 +52,13 @@ Data format
    The data is formatted one entry per line as follows:
    
 	* Age_Restricted_Homes.csv
-		This file contains the demographic information like Name, Address, City, State, Zipcode, Phone_Number, Minimum Age and Geometric_Location
+		This file contains the demographic information like Name, Address, City, State, 
+Zipcode, Phone_Number, Minimum Age and Geometric_Location
 	
 	* Parks.csv
-		This file contains information like FID, Name, Park_ID, Classification, Type_of_park, Address1, Address2	Address3, City, Zip and Geometric_Location of all the parks loacted inside Howard county 																
+		This file contains information like FID, Name, Park_ID, Classification, Type_of_park, 
+Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks loacted inside Howard 
+county 																
  	* Floodplains.csv
 		This file contains FID and Geometric_Location
 
@@ -72,8 +81,7 @@ References
 
    When using this dataset you should cite:
    
-      - the original Age_Restricted_Homes, Parks and Floodplains 
-   dataset from Howard County Data Portal, https://data.howardcountymd.gov
+      - the original Age_Restricted_Homes, Parks and Floodplains dataset from Howard County Data Portal, https://data.howardcountymd.gov
       
 
 -------
