@@ -33,7 +33,8 @@ Data statistics
 -----
 Files
 -----
-Focul Dataset
+Focal Dataset
+
 	* Age_Restricted_Homes.csv
 		This file contains the demographic information like Name, Address, City, 
                 State, Zipcode, Phone_Number, Minimum Age and Geometric_Location
