@@ -79,7 +79,7 @@ License
 The data in the INFM600 repository is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (see http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 	The data is made available for non-commercial use. Those interested in using the data 
-	in a commercial context should contact the owner(Gavish Gulati).
+	in a commercial context should contact the owner(Lester Pereira).
 
 ----------------
 Acknowledgements
