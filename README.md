@@ -53,11 +53,11 @@ Data format
    
 	* Age_Restricted_Homes.csv
 		This file contains the demographic information like Name, Address, City, State, 
-Zipcode, Phone_Number, Minimum Age and Geometric_Location
+                Zipcode, Phone_Number, Minimum Age and Geometric_Location
 	
 	* Parks.csv
 		This file contains information like FID, Name, Park_ID, Classification, Type_of_park, 
-Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks loacted inside Howard county
+                Address1, Address2, Address3, City, Zip and Geometric_Location of all the parks loacted inside Howard county
 
  	* Floodplains.csv
 		This file contains FID and Geometric_Location
